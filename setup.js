@@ -13,8 +13,9 @@ const path = require('path');
 
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
 
-const GITHUB_USER = 'tu-usuario';
-const GITHUB_REPO = 'my-tailwind-boilerplate';
+
+const GITHUB_USER = 'jortizwebdeveloper-glitch';
+const GITHUB_REPO = 'tw4-template';
 const GITHUB_BRANCH = 'main';
 
 // Archivos CSS a descargar (podés agregar más)
