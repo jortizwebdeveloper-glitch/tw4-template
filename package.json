@@ -1,0 +1,15 @@
+{
+  "name": "tw4-template",
+  "version": "1.0.0",
+  "description": "CLI para agregar Tailwind CSS custom a proyectos Next.js",
+  "main": "setup.js",
+  "bin": {
+    "tw4-template": "./setup.js"
+  },
+  "keywords": ["tailwind", "nextjs", "boilerplate", "css"],
+  "author": "Lumi",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
