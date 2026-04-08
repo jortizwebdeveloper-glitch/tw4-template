@@ -21,7 +21,7 @@ const GITHUB_BRANCH = 'main';
 // Archivos CSS a descargar (podés agregar más)
 const CSS_FILES = [
   {
-    src: `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/styles/custom.css`,
+    src: `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/custom.css`,
     target: 'app/globals.css',   // relativo al proyecto Next.js
     mode: 'append',              // 'append' | 'prepend' | 'replace' | 'new-file'
   },
